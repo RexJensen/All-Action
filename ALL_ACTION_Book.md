@@ -14,6 +14,7 @@
 - [Chapter 7: India: Dice, Dharma, and the Mahabharata](#chapter-7)
 - [Chapter 8: China: From Liubo to Mah-Jongg](#chapter-8)
 - [Chapter 9: Japan: Gambling in the Floating World](#chapter-9)
+- [Chapter 10: The Pre-Columbian Americas and the Pacific](#chapter-10)
 - [References](#references)
 
 ---
@@ -316,6 +317,33 @@ The gambling animal is not just a creature of impulse. It is also a creature of 
 calculation, and art. The tension between these two aspects of our nature—the dopaminedriven pull toward the uncertain reward and the rational capacity to understand and exploit
 the mathematics of chance—is the central drama of the story we are about to tell.
 It begins, as it must, with bones.
+
+
+### Images — Chapter 1
+
+**Card Players in a Tavern**
+
+![Card Players in a Tavern](images/ch1_Gamblers_painting.jpg)
+
+*A scene of gambling at cards, capturing the timeless human attraction to uncertain reward*
+
+Source: Metropolitan Museum of Art
+
+**Nesting Pigeon (1732)**
+
+![Nesting Pigeon (1732)](images/ch1_Nesting_pigeon.jpg)
+
+*Pigeons feature prominently in gambling research — Skinner's variable-ratio reinforcement experiments and Zentall's studies of risky choice in pigeons demonstrated that gambling-like behavior extends far beyond humans*
+
+Source: Metropolitan Museum of Art
+
+**Pigeon (Trommeltaube), c. 1745**
+
+![Pigeon (Trommeltaube), c. 1745](images/ch1_Pigeon_trommeltaube.jpg)
+
+*Scientific illustration of the pigeon — the animal that Skinner claimed he could turn into a 'pathological gambler' through variable-ratio reinforcement schedules*
+
+Source: Metropolitan Museum of Art
 
 ---
 
@@ -632,6 +660,41 @@ the people who used them believed about the outcomes they produced. For that, we
 to leave the material record behind and enter the world of ideas—the world of divination, the
 gods, and the sacred random.
 That is the subject of the next chapter.
+
+
+### Images — Chapter 2
+
+**Group of Eight Glass Astragali (Knucklebones), 3rd–2nd century BCE**
+
+![Group of Eight Glass Astragali (Knucklebones), 3rd–2nd century BCE](images/ch2_Group_of_eight_glass_astragali_knucklebones.jpg)
+
+*Hellenistic glass replicas of the ankle bones that served as humanity's oldest randomizing devices — when people couldn't get the real thing, they manufactured replicas*
+
+Source: Metropolitan Museum of Art, #256148
+
+**Glass Astragalus (Knucklebone), 3rd–2nd century BCE**
+
+![Glass Astragalus (Knucklebone), 3rd–2nd century BCE](images/ch2_Glass_astragal_knucklebone.jpg)
+
+*A single glass astragalus showing the distinctive four-sided shape that produces unequal but consistent probabilities when tossed*
+
+Source: Metropolitan Museum of Art, #249805
+
+**Bronze Astragalus (Knucklebone), c. 3rd century BCE–2nd century CE**
+
+![Bronze Astragalus (Knucklebone), c. 3rd century BCE–2nd century CE](images/ch2_Bronze_astragalus_knucklebone.jpg)
+
+*Metal imitation astragalus — proof of how valued these objects were, crafted in durable bronze to replicate the natural bone*
+
+Source: Metropolitan Museum of Art, #256765
+
+**Ancient Dice, 9th–10th century**
+
+![Ancient Dice, 9th–10th century](images/ch2_Dice.jpg)
+
+*Medieval dice showing the evolution toward the standardized, symmetrical form that Eerkens traced over two millennia of design convergence*
+
+Source: Metropolitan Museum of Art
 
 ---
 
@@ -970,6 +1033,33 @@ the next chapter, we will meet them in their own civilizations—the specific ga
 specific cultures, the specific consequences of a species that learned to play with chance
 and then could not stop.
 
+
+### Images — Chapter 3
+
+**Oracle Bone Fragment, Shang Dynasty**
+
+![Oracle Bone Fragment, Shang Dynasty](images/ch3_Oracle_bone_fragment.jpg)
+
+*Inscribed cattle scapula or turtle plastron used for divination — questions were carved into the bone, which was heated until it cracked, and the crack patterns read as messages from ancestors*
+
+Source: Metropolitan Museum of Art
+
+**Oracle Bone, Shang Dynasty (c. 1600–1046 BCE)**
+
+![Oracle Bone, Shang Dynasty (c. 1600–1046 BCE)](images/ch3_Oracle_bone.jpg)
+
+*Over 150,000 oracle bone fragments have been recovered from the Shang capital at Anyang — the earliest surviving records of systematic decision-making under uncertainty*
+
+Source: Metropolitan Museum of Art
+
+**Table Base with Jonah Swallowed and Cast Up by the Big Fish, early 300s CE**
+
+![Table Base with Jonah Swallowed and Cast Up by the Big Fish, early 300s CE](images/ch3_Table_Base_with_Jonah_Swallowed_and_Cast_Up_by_the_Big_Fish.jpg)
+
+*The story of Jonah — the terrified sailors cast lots to determine which passenger brought divine wrath upon their ship, and the lot fell on the prophet*
+
+Source: Metropolitan Museum of Art
+
 ---
 
 # Chapter 4
@@ -1274,6 +1364,41 @@ In the next chapter, we leave the world of board games and enter the world of th
 phenomenon: Greece, where gambling was a philosophical problem, and Rome, where it
 was a national obsession.
 
+
+### Images — Chapter 4
+
+**Queen Nefertari Playing Senet, c. 1279–1213 BCE**
+
+![Queen Nefertari Playing Senet, c. 1279–1213 BCE](images/ch4_Queen_Nefertari_Playing_Senet.jpg)
+
+*Copy of the tomb painting showing the queen playing the game that began as secular entertainment and transformed into a map of the afterlife — the thirty squares became stations on the soul's journey through the Duat*
+
+Source: Metropolitan Museum of Art
+
+**Game Box for Playing Senet and Twenty Squares, c. 1635–1458 BCE**
+
+![Game Box for Playing Senet and Twenty Squares, c. 1635–1458 BCE](images/ch4_Game_Box_for_Playing_Senet_and_Twenty_Squares.jpg)
+
+*A dual-purpose Egyptian game box — one of the most common gaming artifacts from ancient Egypt, combining two different board games*
+
+Source: Metropolitan Museum of Art
+
+**Mirror with TLV Game Board Design and Animals of the Four Directions, 1st–2nd century**
+
+![Mirror with TLV Game Board Design and Animals of the Four Directions, 1st–2nd century](images/ch4_Mirror_with_game_board_design_and_animals_of_the_four_direct.jpg)
+
+*Chinese cosmological mirror bearing the distinctive TLV pattern associated with Liubo — T-shaped, L-shaped, and V-shaped markings symbolizing the four directions and the gates between them*
+
+Source: Metropolitan Museum of Art
+
+**Àgéré Ifá (Ifá Divination Vessel) with Kneeling Woman, 17th–19th century**
+
+![Àgéré Ifá (Ifá Divination Vessel) with Kneeling Woman, 17th–19th century](images/ch4_Àgéré_Ifá_Ifá_divination_vessel_with_kneeling_woman.jpg)
+
+*Yoruba divination vessel used in the Ifá system — a binary code generating 256 combinations, developed independently of Western mathematics*
+
+Source: Metropolitan Museum of Art
+
 ---
 
 # Chapter 5
@@ -1546,6 +1671,49 @@ exploit it, and indulge in it on a scale that dwarfed anything the Greek world h
 Where the Greeks produced Plato and Aristotle, the Romans would produce the Colosseum
 and the Saturnalia. The philosophical tension would remain, but the volume would be turned
 up.
+
+
+### Images — Chapter 5
+
+**Terracotta Vase in the Form of an Astragal (Knucklebone), c. 460 BCE**
+
+![Terracotta Vase in the Form of an Astragal (Knucklebone), c. 460 BCE](images/ch5_Terracotta_vase_in_the_form_of_an_astragal_knucklebone.jpg)
+
+*A Greek vessel sculpted in the shape of a knucklebone — proof of how central gambling was to Greek material culture that potters made drinking vessels in the shape of dice*
+
+Source: Metropolitan Museum of Art, #253610
+
+**Terracotta Kylix (Drinking Cup), c. 500 BCE**
+
+![Terracotta Kylix (Drinking Cup), c. 500 BCE](images/ch5_Terracotta_kylix_drinking_cup.jpg)
+
+*A Greek symposium drinking cup — the symposium was where men debated philosophy, recited poetry, and competed in gambling games like kottabos*
+
+Source: Metropolitan Museum of Art, #254921
+
+**Bronze Statuette of the Goddess Fortuna (Tyche), c. 2nd century CE**
+
+![Bronze Statuette of the Goddess Fortuna (Tyche), c. 2nd century CE](images/ch5_Bronze_statuette_of_the_goddess_Fortuna.jpg)
+
+*The goddess of fortune carrying a cornucopia (abundance) and balancing on instability — 'the cornucopia says fortune gives; the ball says fortune is precarious'*
+
+Source: Metropolitan Museum of Art, #245316
+
+**Glass Astragalus (Knucklebone), c. 225 BCE–75 CE**
+
+![Glass Astragalus (Knucklebone), c. 225 BCE–75 CE](images/ch5_Glass_astragalus_knucklebone.jpg)
+
+*Rolling four different numbers on four astragaloi was called the 'Throw of Aphrodite' — the best result, named after the goddess of love*
+
+Source: Metropolitan Museum of Art
+
+**Marble Relief Fragment with Gladiators, 1st–3rd century CE**
+
+![Marble Relief Fragment with Gladiators, 1st–3rd century CE](images/ch5_Marble_relief_fragment_with_gladiators.jpg)
+
+*Gladiatorial combat scenes — athletic competitions where Greeks and Romans wagered heavily on the outcomes*
+
+Source: Metropolitan Museum of Art
 
 ---
 
@@ -1825,6 +1993,57 @@ tablets and the bird-borne race results all vanished with the civilization that 
 them.
 They would take more than a thousand years to return.
 
+
+### Images — Chapter 6
+
+**Circus Maximus from Speculum Romanae Magnificentiae (1581)**
+
+![Circus Maximus from Speculum Romanae Magnificentiae (1581)](images/ch6_Circus_Maximus_from_Speculum_Romanae_Magnificentiae.jpg)
+
+*Engraving of the Circus Maximus — the largest entertainment venue in the ancient world, seating 250,000 spectators for chariot races that were Rome's greatest gambling spectacle*
+
+Source: Metropolitan Museum of Art
+
+**Reconstruction of the Circus Maximus (before 1704)**
+
+![Reconstruction of the Circus Maximus (before 1704)](images/ch6_Reconstruction_of_the_Circus_Maximus_above_and_a_View_of_the.jpg)
+
+*Showing the massive scale of Rome's premier gambling venue — citizens of every class placed enormous bets on the racing factions: Reds, Whites, Blues, and Greens*
+
+Source: Metropolitan Museum of Art
+
+**Roman-era Dice**
+
+![Roman-era Dice](images/ch6_Dice.jpg)
+
+*Dice found across the Roman empire — in taverns, military camps, and the Forum itself, despite law after law forbidding dice games*
+
+Source: Metropolitan Museum of Art
+
+**Glass Astragal (Knucklebone), Roman**
+
+![Glass Astragal (Knucklebone), Roman](images/ch6_Glass_astragal_knucklebone.jpg)
+
+*The tali (knucklebones) that Romans inherited from the Greeks — the best roll was the 'Throw of Venus,' the worst the 'Throw of the Dog'*
+
+Source: Metropolitan Museum of Art
+
+**Roman Gaming Counters**
+
+![Roman Gaming Counters](images/ch6_Roman_gaming_counters.jpg)
+
+*Counters used for Duodecim Scripta ('Twelve Lines'), the ancestor of modern backgammon*
+
+Source: Metropolitan Museum of Art
+
+**Terracotta Hydria, c. 340–330 BCE**
+
+![Terracotta Hydria, c. 340–330 BCE](images/ch6_Terracotta_hydria_water_jar.jpg)
+
+*Decorated vessel from the classical world — gambling scenes appeared on pottery across the Mediterranean*
+
+Source: Metropolitan Museum of Art
+
 ---
 
 # Chapter 7
@@ -2097,6 +2316,33 @@ The next chapter moves to another great civilization of the ancient East—China
 relationship with gambling followed a different trajectory entirely, shaped by Confucian
 disdain for disorder and a gaming culture that eventually chose pure strategy over chance.
 
+
+### Images — Chapter 7
+
+**Shiva and Parvati Playing Chaupar, from a Rasamanjari Series, 1694–95**
+
+![Shiva and Parvati Playing Chaupar, from a Rasamanjari Series, 1694–95](images/ch7_Shiva_and_Parvati_Playing_Chaupar_Folio_from_a_Rasamanjari_S.jpg)
+
+*The gods themselves at the gaming board — Shiva and Parvati are traditionally shown playing Chaupar, depicted in sculpture and painting across centuries*
+
+Source: Metropolitan Museum of Art, #37942
+
+**Indian Miniature Painting, Mughal Era**
+
+![Indian Miniature Painting, Mughal Era](images/ch7_Indian_miniature.jpg)
+
+*The rich tradition of Indian miniature painting documented courtly life, including the gambling scenes central to Indian epic literature*
+
+Source: Metropolitan Museum of Art
+
+**Laur and Chanda in the Forest, from a Chandayana, c. 1525–50**
+
+![Laur and Chanda in the Forest, from a Chandayana, c. 1525–50](images/ch7_Laur_and_Chanda_in_the_Forest_Folio_from_a_Chandayana_or_Lau.jpg)
+
+*Indian manuscript painting from the tradition that produced the world's greatest gambling narratives*
+
+Source: Metropolitan Museum of Art
+
 ---
 
 # Chapter 8
@@ -2359,6 +2605,33 @@ In the next chapter, we will follow some of those tools—particularly the playi
 traveled westward along the trade routes, through the Islamic world and into medieval
 Europe, where they would ignite a revolution in gambling that is still unfolding today.
 
+
+### Images — Chapter 8
+
+**Pair of Seated Figures Playing Liubo, 1st century BCE–1st century CE**
+
+![Pair of Seated Figures Playing Liubo, 1st century BCE–1st century CE](images/ch8_Pair_of_Seated_Figures_Playing_Liubo.jpg)
+
+*Han Dynasty tomb figurines showing animated Liubo players — one hand raised as if about to slam down the throwing sticks. These are among the most common gaming artifacts in Han Dynasty tombs*
+
+Source: Metropolitan Museum of Art, #44732
+
+**Liubo Board and Pieces, 1st century BCE–1st century CE**
+
+![Liubo Board and Pieces, 1st century BCE–1st century CE](images/ch8_Liubo_Board_and_Pieces.jpg)
+
+*A complete Han Dynasty Liubo gaming set with its distinctive square board — the game was simultaneously entertainment, gambling instrument, and divination tool*
+
+Source: Metropolitan Museum of Art, #50484
+
+**Mirror with Game Board Design (TLV Pattern), 1st–2nd century**
+
+![Mirror with Game Board Design (TLV Pattern), 1st–2nd century](images/ch8_Mirror_with_game_board_design.jpg)
+
+*The cosmological TLV pattern that adorned both Liubo boards and bronze mirrors — believed to symbolize the gates between the four directions and the center of the cosmos*
+
+Source: Metropolitan Museum of Art
+
 ---
 
 # Chapter 9
@@ -2607,6 +2880,364 @@ The next chapter moves to the Pre-Columbian Americas, where indigenous peoples o
 continent with no contact with Asia or Europe independently developed their own rich
 gambling cultures—further proof, if any were needed, that the gambling impulse is not a
 product of any single civilization but a feature of the species.
+
+
+### Images — Chapter 9
+
+**Box with Cards for the Poem Card Game, Japan**
+
+![Box with Cards for the Poem Card Game, Japan](images/ch9_Box_with_Cards_for_the_Poem_Card_Game.jpg)
+
+*Japanese karuta cards — part of the card game tradition that evolved from banned Portuguese playing cards through successive reinventions*
+
+Source: Metropolitan Museum of Art
+
+**Four of Clubs, Japanese Courtship, from Harlequin Cards (1889)**
+
+![Four of Clubs, Japanese Courtship, from Harlequin Cards (1889)](images/ch9_Four_of_Clubs_Japanese_Courtship_from_Harlequin_Cards_2nd_Se.jpg)
+
+*Cards connecting Japanese and Western card cultures — produced the same year Fusajiro Yamauchi founded Nintendo to manufacture Hanafuda cards*
+
+Source: Metropolitan Museum of Art
+
+**Japanese Woodblock Print, Edo Period**
+
+![Japanese Woodblock Print, Edo Period](images/ch9_Japanese_woodblock_print.jpg)
+
+*Ukiyo-e print from the 'floating world' — the nocturnal realm of pleasure quarters, theaters, teahouses, and gambling dens that flourished in Edo-period Japan*
+
+Source: Metropolitan Museum of Art
+
+**Ukiyo-e Print, Japan**
+
+![Ukiyo-e Print, Japan](images/ch9_Ukiyo-e_print.jpg)
+
+*The floating world was where the rigid hierarchies of Tokugawa society were temporarily relaxed — and where gambling was woven into the texture of daily life*
+
+Source: Metropolitan Museum of Art
+
+---
+
+# Chapter 10
+## The Pre-Columbian Americas and the Pacific
+
+Sometime around the year 1100, in a city larger than London, a chief climbed to the summit
+of a black earthen pyramid and raised his arms. A thousand people in the grand plaza below
+erupted in a deafening shout. The crowd split into two halves. Someone rolled a polished
+stone disc across the packed earth. Hundreds of spears arced through the air. And then, as
+the disc wobbled and slowed and the spears clattered down around it, the real action began
+—not on the playing field but on the sidelines, where spectators wagered everything they
+had on the outcome.
+The city was Cahokia. The pyramid was Monks Mound, a four-tiered platform rising a
+hundred feet from its fourteen-acre base—larger at its footprint than the Great Pyramid of
+Giza. The city sprawled across the bottomlands of the Mississippi River, near present-day
+St. Louis, and at its peak it held between ten and fifteen thousand residents, with a regional
+population of perhaps forty thousand. It was the largest urban center in North America
+before the arrival of Europeans—the capital of the Mississippian civilization, with trade
+networks stretching from the Great Lakes to the Gulf of Mexico. And one of the things that
+held it together, archaeologists now believe, was a gambling game.
+The game was called chunkey.
+
+Chunkey was deceptively simple. Two players faced each other on a cleared field. One
+rolled a carefully crafted stone disc—a chunkey stone, polished to a smooth finish, typically
+two to six inches in diameter, concave on both faces, made from sandstone or granite or
+occasionally exotic materials like Commerce quartzite. The disc rolled across the ground,
+wobbling, decelerating, its path unpredictable. Before it stopped, both players threw long
+spears—eight to ten feet of hickory or poplar, hurled with force and precision—attempting to
+land as close as possible to the stone’s resting point. The player whose spear landed
+nearest scored. Games were played to eleven or twelve points and could last hours.
+The skill involved was real: reading the wobble of the disc, calculating where it would stop,
+timing the throw. But the uncertainty was also real. The disc could catch a rut, hit a pebble,
+veer in ways no one anticipated. And it was this uncertainty—the gap between skill and
+
+outcome—that made chunkey a gambling game rather than merely an athletic contest.
+The gambling around chunkey was extreme. When European explorers first encountered
+versions of the game among Southeastern tribes in the eighteenth century, they recorded
+scenes of extraordinary intensity. The trader James Adair, writing in the 1770s, translated
+the name as “running hard labor.” The naturalist William Bartram described plazas devoted
+entirely to the game. French explorers reported that players wagered everything they owned
+—possessions, homes, families. Losers who had gambled away their entire material
+existence were known to commit suicide. The eighteenth-century accounts are consistent:
+chunkey was not a pastime. It was an obsession, a social institution, and a mechanism of
+economic redistribution so powerful that it could ruin a person in an afternoon.
+But the archaeological story goes deeper than the ethnographic accounts, because the
+archaeologist Timothy Pauketat has argued that chunkey was not merely a game played at
+Cahokia. It was an instrument of Cahokian power.
+Chunkey stones appear in the archaeological record of the American Bottom—the
+Mississippi River floodplain around Cahokia—starting around 600 CE, during the Late
+Woodland period. In this early phase, they show up in residential middens, the refuse heaps
+of ordinary households. People were playing casually, probably gambling casually. But when
+Cahokia exploded into a major urban center around 1050 CE, something changed. Chunkey
+stones disappeared from domestic contexts and began appearing in elite burials and
+ceremonial deposits. The archaeologist Warren DeBoer has argued that the Cahokian elite
+appropriated the game—seized control of an activity that had been a popular gambling
+pastime and transformed it into a regulated, state-controlled spectacle. The stone discs,
+now crafted to exacting standards from specific materials, became prestige objects. Some
+were engraved with crosses representing the four cardinal directions. Others bore eye
+motifs associated with the thunderbird deity. The rolling chunkey stone may have
+symbolized a severed head—a rolling human head is a central figure in several indigenous
+creation stories—or the eye of the creator god watching the contest unfold.
+Pauketat goes further. He proposes that when Cahokia sent envoys to distant communities
+—an activity for which there is substantial archaeological evidence—those envoys carried
+two things: war clubs and chunkey stones. The message was elegant and brutal. Play with
+us, or fight us. The chunkey stone and the war club were the choice between diplomacy and
+violence, and the game itself became the medium of alliance, tribute, and political
+integration. This is what Pauketat calls the Pax Cahokiana—a peace maintained, in part,
+through competitive gambling.
+After Cahokia’s mysterious decline around 1300 CE—the city was virtually abandoned within
+a few generations, for reasons still debated—chunkey stones reappeared in domestic
+contexts across the Southeastern and Midwestern regions. The game had returned to the
+people. Freed from elite control, it spread along trade routes and migration paths, carried by
+
+communities who remembered Cahokia’s cultural forms even after the city itself was gone.
+By the time Europeans arrived, chunkey was being played from Montana to the Carolinas—a
+game that had been born as folk entertainment, had been captured by a political elite to
+serve the needs of empire, and had escaped back into popular culture when that empire
+collapsed.
+The trajectory is unique in the history of gambling, and it inverts the pattern we have seen
+elsewhere. In Rome, in China, in Japan, the state tried to suppress gambling and failed. At
+Cahokia, the state tried to monopolize it—and succeeded, for a while.
+
+A thousand miles to the south, in the Valley of Mexico, the stakes were even higher.
+Chapter 4 introduced patolli—the cross-shaped Aztec race game played for stakes under
+the watchful eye of Macuilxochitl, the god of games. We covered its mechanics there: the
+fifty-two-square board, the five marked beans functioning as binary dice, the six racing
+pieces, the escalating wagers that could end in enslavement. What we did not cover was the
+broader Aztec gambling ecosystem in which patolli existed—an ecosystem dominated by an
+even more spectacular venue for wagering.
+The Mesoamerican ball game—known as ōllamaliztli in Nahuatl—was three thousand years
+old by the time the Aztecs inherited it. Invented by the Olmecs around 1600 BCE, it was the
+longest continuously played sport in the Americas. Two teams on an I-shaped stone court, a
+solid rubber ball weighing six to eight pounds, players striking it with their hips, knees, and
+forearms but never their hands or feet. Stone rings mounted high on the court’s walls
+served as goals—driving the ball through one was so difficult that doing so ended the game
+instantly. The ball itself was a marvel: pre-Columbian Mesoamerica had discovered
+vulcanization, and the rubber balls that bounced off the court’s stone walls were a
+technology that Europeans would not match for centuries.
+But the ball game was also a gambling platform on a scale that dwarfs anything we have
+encountered so far in this book.
+Bernardino de Sahagún, the Franciscan friar who compiled the most comprehensive
+Spanish account of Aztec life, recorded that ball games were staged regularly in the wards
+and markets of Tenochtitlan, the Aztec capital, and that they were accompanied by betting
+so intense that it routinely led to violence. Diego Durán, another Spanish chronicler,
+described the scene around the courts: crowds of onlookers pressing close, alcohol flowing
+freely, the wagering escalating as the game progressed—jewels, slaves, precious stones,
+feathered cloaks, the trappings of war. Durán wrote that some gamblers sold their own
+children to fund their bets, and that others staked themselves, losing the game and their
+freedom in the same stroke. Sahagún noted matter-of-factly that at the ball courts, “heads
+
+were constantly split open”—not from the game itself but from the fights that erupted over
+disputed bets.
+The most famous ball game wagers involved the Aztec emperors themselves. The chronicler
+Fray Juan de Torquemada recorded that Emperor Axayacatl wagered a year’s tribute income
+plus several tributary towns against the city of Xochimilco in a match against its ruler,
+Xihuitlemoc. Axayacatl lost. Rather than honor the bet, he had Xihuitlemoc assassinated. In
+another celebrated match, Montezuma himself played Nezahualpilli, the king of the
+neighboring city of Texcoco. Nezahualpilli staked his entire kingdom. Montezuma offered
+three turkeys. Nezahualpilli won. Montezuma took his loss as an omen of divine disfavor—a
+reading that proved prophetic when Hernán Cortés arrived a few years later and the empire
+fell.
+These were not metaphorical stakes. Aztec nobles genuinely wagered their political
+authority on the outcome of athletic contests. The ball game was simultaneously sport,
+religious ritual (the court symbolized the boundary between the human world and the
+underworld, and the game reenacted cosmic battles), diplomatic tool, and gambling market.
+The same god—Macuilxochitl, Five Flower, patron of games and excess—presided over both
+patolli and the ball game. His presence at the sidelines was not symbolic. An empty space
+was reserved near the gaming area for the god to sit, and players offered incense and
+treasure to him before play began. When your dice rolled zero in patolli, you paid a forfeit
+not to your opponent but to Macuilxochitl. When the ball caromed off the court wall in
+ōllamaliztli, the god was watching.
+The Spanish, when they arrived, were horrified. Not by the gambling itself—Spain was hardly
+innocent of that vice—but by its entanglement with what they considered pagan religion.
+The priests who accompanied the conquistadors banned patolli. They burned the boards
+and the bean-dice. According to some accounts, they burned the hands of people caught
+playing. The ball game was suppressed as part of the systematic destruction of indigenous
+religious practice. Anything that connected the Aztec people to their gods was targeted,
+and since gambling and worship were inseparable—since the game was the ritual—
+destroying the game was destroying the religion.
+It nearly worked. Patolli survived only in remote mountain communities, where Alfonso Caso
+found people still playing it in the 1920s. The ball game survived as ulama, a stripped-down
+version played in the Mexican state of Sinaloa, shorn of its religious context, kept alive by
+communities that remembered the rules even after the courts crumbled and the gods fell
+silent.
+
+North of Mexico, a different gambling civilization flourished—one with no cities, no empires,
+no written records, and an intensity of wagering that astonished every European who
+
+encountered it.
+We noted in an earlier chapter that the anthropologist Stewart Culin, in his monumental
+1907 study Games of the North American Indians, documented games of chance among
+130 tribes belonging to 30 linguistic groups. The sheer variety is staggering: dice games
+played with marked plum stones, beaver teeth, carved walnut shells, painted sticks, and
+burned peach pits. Guessing games in which one team concealed marked bones in their
+hands while the other team tried to locate them. Hoop-and-pole games in which players
+threw spears at a rolling target. Arrow games in which contestants flipped arrows at a mark.
+Moccasin games in which a small object was hidden under one of several overturned shoes.
+Racing games, spinning-top games, football games, lacrosse games—virtually all of them
+played for stakes.
+But the game that best captures the spirit of North American indigenous gambling is the
+hand game, also called the stick game, because it distills the gambling impulse to its purest
+form: deception, observation, and the wager.
+Two teams face each other, usually four to eight players per side. On the hiding team, two
+players each hold a pair of bones—one plain, one marked with a stripe or wrapping. They
+pass the bones back and forth between their hands, swaying, feinting, misdirecting, while
+their teammates beat drums, sing power songs, chant, and shout—creating a wall of sound
+designed to energize the hiders and rattle the guessers. The guessing team’s captain
+watches the hiders’ hands, reading body language, looking for the involuntary twitch or
+hesitation that reveals which hand holds the marked bone. When the captain is ready, he
+points—not with words but with specific hand gestures, each carrying a precise meaning. If
+the guess is right, the hiding team surrenders counting sticks. If wrong, the guessing team
+pays. The game continues until one team holds all ten sticks.
+There is no randomizing device. No dice, no cards, no spinning wheel. The uncertainty
+comes entirely from human deception and human perception. It is, in the purest sense, a
+game of reading people—and if that sounds familiar to you, it should. The hand game is the
+closest thing in the pre-Columbian world to poker. The hider is bluffing. The guesser is
+calling. The noise and theater are the ancient equivalent of table talk and psychological
+pressure. The stakes are real. The skill is real. And the margin between winning and losing is
+the same margin that separates the good poker player from the bad one: the ability to see
+what someone is trying to hide.
+The spiritual dimension was as real as the material one. In many traditions, the hand game
+was not merely accompanied by songs—the songs were the game’s spiritual engine.
+Specific melodies belonged to specific players or clans and were believed to carry power
+that could confuse opponents, strengthen hiders, or reveal hidden truths to guessers.
+Shamans sometimes participated, using sleight of hand during healing rituals that blurred
+the line between medicine and entertainment. The Coyote stories of the Plateau peoples—
+
+sacred narratives told only during winter months—feature the trickster figure playing the
+hand game, winning and losing with the same reckless abandon that characterizes his other
+adventures. In the tale “Coyote Loses His Eyes,” a pivotal moment unfolds during a hand
+game match: blind Coyote wins every round, and by the story’s end, his sight is restored.
+The game is the mechanism of transformation.
+The gambling around these games was not casual. Among the Cherokee, pre-stickball
+gambling ceremonies lasted all night. The game itself—played entirely by males, sometimes
+lasting most of the day, finishing before sunset—was preceded by fasting, purification
+rituals, prayers, and magical practices that were believed to determine the outcome as
+much as any physical skill. Bets were tied together on a frame of poles in an elaborate
+display. Players wore specific body paint made from charcoal struck by lightning. The ball
+was red yarn wound around a living tiger beetle, cased in groundhog rawhide. Every detail
+was fixed with symbolic meaning. This was not recreation. This was ceremony, warfare by
+other means, and an economic redistribution mechanism operating under ritual rules.
+The same pattern held across the continent. Among the peoples of the Great Plains,
+gambling on horse races and hand games was a primary mechanism of wealth transfer
+between bands. Among the peoples of the Northwest Coast, high-stakes gambling
+accompanied potlatch ceremonies. Among the Zuni of the American Southwest, an
+elaborate stick-dice and board game was a ritual sacred to their gods—the circle of
+compulsive gamblers who devoted their lives to the game were understood not as addicts
+but as a special kind of dedicated priesthood, men possessed by supernatural forces. The
+anthropologist Frank Hamilton Cushing, who lived among the Zuni in the 1880s, recognized
+this immediately: the men who could not stop gambling were not failing at self-control. They
+were fulfilling a spiritual role.
+
+In the middle of the Pacific Ocean, fifteen hundred miles from the nearest continent, the
+Polynesian peoples who settled the Hawaiian archipelago created their own gambling
+culture from scratch—no contact with the Americas, no contact with Asia, no inherited
+traditions from anywhere but the voyaging canoes that had carried their ancestors across
+open ocean.
+Hawaiian gambling centered on the Makahiki festival—a four-month season beginning with
+the rising of the Pleiades, dedicated to the god Lono, during which warfare was forbidden
+and athletic competition took its place. During the Makahiki, game tournaments drew
+hundreds, sometimes thousands, of spectators. The games included ʻulu maika (stone
+bowling), mokomoko (boxing), hākōkō (wrestling), and various forms of spear throwing, dart
+throwing, and racing. Betting on these competitions was not incidental—it was the point.
+The stakes could be food, fishing nets, canoes, feathered capes, land. Some participants
+bet their freedom. The Makahiki was, in effect, a weeks-long gambling festival wrapped in
+
+the structure of a religious observance.
+The most intellectually demanding Hawaiian game was kōnane—a two-player strategy game
+played on a rectangular board of black lava stones and white coral pieces, arranged in an
+alternating pattern. Players captured by jumping over opponent’s pieces, as in checkers, but
+only orthogonally, never diagonally, and the game ended when one player could make no
+more captures. The loser was not the player with fewer pieces but the player who had been
+rendered powerless—a distinction that reflects a Hawaiian worldview fundamentally
+different from the Western conquest-oriented model. Kōnane boards were carved into lava
+rock along the coastline; some survive today. The game was played by everyone, from
+commoners to the aliʻi (chiefs), and was used as a tool for teaching strategic thinking,
+resolving disputes, and—inevitably—gambling. When missionaries arrived in the nineteenth
+century, they suppressed kōnane precisely because of its association with wagering.
+But the Hawaiian game that would have most delighted a poker player was Pūhenehene—
+the hiding game. A long piece of tapa cloth was laid between two teams. One player took a
+small stone or piece of wood—the noʻa—and slid their hands beneath the cloth, moving it
+back and forth, taunting the other side, deploying body language and verbal misdirection,
+before leaving the stone concealed under one of the cloth’s folds. The opposing team then
+had to guess where the stone was hidden. It was the Hawaiian equivalent of the North
+American hand game—a contest of deception and observation, theater and psychology,
+played for real stakes. The hider used trash talk, false signals, and feigned tells. The
+guesser studied the hider’s face for microexpressions. The crowd roared.
+Six thousand miles of open ocean separate Hawaiʻi from the Great Plains, yet both
+civilizations independently arrived at the same game: hide something, read the hider, bet on
+whether you can see through the deception. The convergence is too specific to be
+coincidence and too distant to be diffusion. It is, instead, evidence that certain forms of
+gambling are not cultural inventions at all. They are expressions of something inherent in the
+species—the drive to test one’s ability to read other minds, to deceive and detect deception,
+to stake something real on the outcome of that test.
+
+The anthropologist Stewart Culin spent his career arguing that the world’s games shared
+common origins—that similarities between games played in distant civilizations proved
+ancient contact and diffusion. He was largely wrong about that. The similarities prove
+something more interesting: convergent evolution. Isolated human societies, facing the
+same psychological needs—for entertainment, for status competition, for economic
+redistribution, for contact with the divine, for the raw thrill of uncertainty—independently
+invented the same kinds of games over and over again.
+Roll a disc and throw spears at it. Hide an object and dare someone to find it. Race pieces
+
+around a board while the gods watch. Throw marked sticks and let the pattern decide your
+fortune. Bet everything. Lose everything. Come back tomorrow and do it again.
+These are not the customs of any particular civilization. They are the customs of the
+species. And the Pre-Columbian Americas and the Pacific Islands, precisely because they
+were isolated from the Old World, provide the clearest proof that this is so. Every argument
+this book has made about the universality of gambling—the neuroscience of Chapter 1, the
+archaeological record of Chapter 2, the divine entanglement of Chapter 3—finds its most
+powerful confirmation in the simple fact that people in the Americas and the Pacific, with no
+knowledge of Roman dice or Chinese cards or Indian vibhidaka nuts, built gambling cultures
+every bit as elaborate, as dangerous, as sacred, and as irrepressible as anything on the
+other side of the world.
+The next chapter turns to the one major civilization that mounted the most theologically
+rigorous argument against gambling: Islam. It is a story of prohibition more absolute than
+anything the Tokugawa or the Romans or the Aztec elders ever attempted—and of the
+human ingenuity that found ways around it nonetheless.
+
+
+### Images — Chapter 10
+
+**Seated Ballplayer, 200 BCE–300 CE**
+
+![Seated Ballplayer, 200 BCE–300 CE](images/ch10_Mesoamerican_ballplayer_figure.jpg)
+
+*Pre-Columbian figure of a Mesoamerican ball game player — the ball game was three thousand years old by the time the Aztecs inherited it, the longest continuously played sport in the Americas*
+
+Source: Metropolitan Museum of Art
+
+**Stone Yoke (Ball Game Equipment), 600–900 CE, Classic Veracruz**
+
+![Stone Yoke (Ball Game Equipment), 600–900 CE, Classic Veracruz](images/ch10_Mesoamerican_ball_game_yoke.jpg)
+
+*Stone yoke worn by Mesoamerican ballplayers — the ball game was simultaneously sport, religious ritual, diplomatic tool, and gambling market*
+
+Source: Metropolitan Museum of Art
+
+**Closed Yoke, 600–900 CE, Classic Veracruz**
+
+![Closed Yoke, 600–900 CE, Classic Veracruz](images/ch10_Closed_yoke.jpg)
+
+*Ball game equipment from the civilization that discovered vulcanization and produced rubber balls Europeans would not match for centuries*
+
+Source: Metropolitan Museum of Art
+
+**Pendant with Serpent Design, 13th–14th century, Mississippian Culture**
+
+![Pendant with Serpent Design, 13th–14th century, Mississippian Culture](images/ch10_Pendant_with_Serpent_Design.jpg)
+
+*Artifact from the Mississippian civilization that built Cahokia — where chunkey was played as both folk entertainment and instrument of political power*
+
+Source: Metropolitan Museum of Art
+
+**Polychrome Bottle, 14th–15th century, Mississippian (Ancestral Quapaw)**
+
+![Polychrome Bottle, 14th–15th century, Mississippian (Ancestral Quapaw)](images/ch10_Polychrome_Bottle.jpg)
+
+*Decorated pottery from the Cahokian cultural sphere — the civilization that used gambling as a tool of diplomacy and empire*
+
+Source: Metropolitan Museum of Art
 
 ---
 
@@ -3267,4 +3898,82 @@ General Background
 Schwartz, D.G. Roll the Bones: The History of Gambling (2006). Gotham Books.
 Parlett, D. A History of Card Games (1991). Oxford University Press.
 
+
+## Chapter 10: The Pre-Columbian Americas and the Pacific
+
+Cahokia and Chunkey
+Pauketat, T.R. Cahokia: Ancient America’s Great City on the Mississippi (2009). Viking
+Penguin. On Cahokia’s rise, the chunkey game, and the Pax Cahokiana thesis.
+Pauketat, T.R. Ancient Cahokia and the Mississippians (2004). Cambridge University
+Press.
+DeBoer, W. “Of Dice and Women: Gambling and Exchange in Native North America.”
+Journal of Archaeological Method and Theory (1993). On the elite appropriation of
+chunkey at Cahokia.
+Perino, G. “The Cahokia Discoidal.” In An Archaeological Salvage Report (1971). The
+typology of chunkey stones.
+World History Encyclopedia, “Chunkey” (2024). Overview of the game’s origins and
+mechanics.
+Cherokee Phoenix, “Chunkey: A Game of Stones” (2020). On the revival of chunkey in
+Cherokee communities.
+Patolli and the Spanish Encounter
+Sahagún, B. de. Historia General de las Cosas de la Nueva España (Florentine Codex),
+
+Book 8. Sixteenth-century description of patolli and ball game gambling.
+Durán, D. Historia de las Indias de Nueva España, vol. I. On ball game wagering, crowds,
+and violence.
+Codex Magliabechiano. Aztec codex depicting patolli under the supervision of
+Macuilxochitl.
+Caso, A. “Un antiguo juego mexicano: el patolli.” El México antiguo 2 (1927): 203–211.
+The foundational study of patolli.
+Clendinnen, I. Aztecs: An Interpretation (1991). Cambridge University Press. On patolli
+as a response to existential uncertainty.
+Tylor, E.B. “On the Game of Patolli in Ancient Mexico, and its Probably Asiatic Origin.”
+Journal of the Anthropological Institute of Great Britain and Ireland 8 (1879): 116–131.
+The Mesoamerican Ball Game
+Scarborough, V.L. & Wilcox, D.R., eds. The Mesoamerican Ballgame (1991). University of
+Arizona Press. Comprehensive archaeological treatment.
+Torquemada, F.J. de. Monarquía Indiana. On the Axayacatl/Xochimilco wager.
+Ixtlilxochitl, F. de Alva. On the Toltec king Topiltzin wagering sovereignty through the ball
+game.
+The Metropolitan Museum of Art, “The Mesoamerican Ballgame” (2017). Survey of
+archaeological and artistic evidence.
+ReVista (Harvard), “Religion, Politics and Plenty of Betting.” On the ball game as a
+gambling venue and Vernon Scarborough’s comparison to Balinese cockfighting.
+Popol Vuh. The Maya Hero Twins narrative and the ball game’s mythological
+significance.
+North American Indigenous Gambling
+Culin, S. Games of the North American Indians (1907). Bureau of American Ethnology.
+The foundational reference on 130+ tribes’ games.
+Culin, S. “Hawaiian Games.” American Anthropologist 1(2) (1899): 201–247.
+University of Pennsylvania Museum, “American Indian Gaming Arrows and Stick-Dice.”
+On Culin and Cushing’s collaboration.
+University of Pennsylvania Museum, “Formal Games in the Cherokee Ritual Cycle.” On
+Cherokee stickball ceremonies.
+
+Yanicki, G. “Gambling Societies of North America.” Critical Gambling Studies 2 (2021):
+123–140.
+Vennum, T. American Indian Lacrosse: Little Brother of War (1994). Smithsonian
+Institution Press.
+The Hand Game
+Wikipedia, “Handgame.” Overview of rules and regional variations.
+Various sources on the hand game’s spiritual significance, power songs, and the Coyote
+narratives.
+Mathkind.org, “Native American Stick Game: Global Math Story” (2024).
+Hawaiian and Polynesian Gambling
+Culin, S. “Hawaiian Games.” American Anthropologist 1(2) (1899): 201–247. First
+academic description of Lu-Lu, kōnane, and Pūhenehene.
+Kaʻiwakīloumoku (Hawaiian Cultural Center), “Makahiki: Let the Games Begin.” On
+Makahiki festival gambling.
+Wikipedia, “Kōnane.” On the game’s rules, cultural significance, and PSPACEcompleteness.
+Wikipedia, “Traditional Hawaiian Games.” Overview of Makahiki games and Pūhenehene.
+Malo, D. Hawaiian Antiquities (Moʻōlelo Hawaiʻi). Primary source on Pūhenehene.
+Convergent Evolution and General Background
+Binde, P. “Gambling Across Cultures.” International Gambling Studies 5(1) (2005): 1–27.
+Cross-cultural survey identifying North America as a “continent of gamblers.”
+Pryor, F. The Origins of the Economy (1976). Quantitative analysis finding North
+American location as a predictor of gambling intensity.
+Schwartz, D.G. Roll the Bones: The History of Gambling (2006). Gotham Books.
+Parlett, D. The Oxford History of Board Games (1999). Oxford University Press.
+
 ---
+
