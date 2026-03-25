@@ -321,29 +321,11 @@ It begins, as it must, with bones.
 
 ### Images — Chapter 1
 
-**Card Players in a Tavern**
-
-![Card Players in a Tavern](images/ch1_Gamblers_painting.jpg)
-
-*A scene of gambling at cards, capturing the timeless human attraction to uncertain reward*
-
-Source: Metropolitan Museum of Art
-
-**Nesting Pigeon (1732)**
-
-![Nesting Pigeon (1732)](images/ch1_Nesting_pigeon.jpg)
-
-*Pigeons feature prominently in gambling research — Skinner's variable-ratio reinforcement experiments and Zentall's studies of risky choice in pigeons demonstrated that gambling-like behavior extends far beyond humans*
-
-Source: Metropolitan Museum of Art
-
-**Pigeon (Trommeltaube), c. 1745**
+![Nesting Pigeon, 1732](images/ch1_Nesting_pigeon.jpg)
+*Pigeons feature prominently in gambling research — Skinner's variable-ratio reinforcement experiments demonstrated that gambling-like behavior extends far beyond humans. — Met*
 
 ![Pigeon (Trommeltaube), c. 1745](images/ch1_Pigeon_trommeltaube.jpg)
-
-*Scientific illustration of the pigeon — the animal that Skinner claimed he could turn into a 'pathological gambler' through variable-ratio reinforcement schedules*
-
-Source: Metropolitan Museum of Art
+*The animal Skinner claimed he could turn into a 'pathological gambler' through variable-ratio reinforcement schedules. — Met*
 
 ---
 
@@ -664,37 +646,17 @@ That is the subject of the next chapter.
 
 ### Images — Chapter 2
 
-**Group of Eight Glass Astragali (Knucklebones), 3rd–2nd century BCE**
-
-![Group of Eight Glass Astragali (Knucklebones), 3rd–2nd century BCE](images/ch2_Group_of_eight_glass_astragali_knucklebones.jpg)
-
-*Hellenistic glass replicas of the ankle bones that served as humanity's oldest randomizing devices — when people couldn't get the real thing, they manufactured replicas*
-
-Source: Metropolitan Museum of Art, #256148
-
-**Glass Astragalus (Knucklebone), 3rd–2nd century BCE**
+![Glass Astragali (Knucklebones), 3rd–2nd century BCE](images/ch2_Group_of_eight_glass_astragali_knucklebones.jpg)
+*Hellenistic glass replicas of the ankle bones that served as humanity's oldest randomizing devices — when people couldn't get the real thing, they manufactured replicas. — Met*
 
 ![Glass Astragalus (Knucklebone), 3rd–2nd century BCE](images/ch2_Glass_astragal_knucklebone.jpg)
-
-*A single glass astragalus showing the distinctive four-sided shape that produces unequal but consistent probabilities when tossed*
-
-Source: Metropolitan Museum of Art, #249805
-
-**Bronze Astragalus (Knucklebone), c. 3rd century BCE–2nd century CE**
+*A single glass astragalus showing the distinctive four-sided shape that produces unequal but consistent probabilities when tossed. — Met*
 
 ![Bronze Astragalus (Knucklebone), c. 3rd century BCE–2nd century CE](images/ch2_Bronze_astragalus_knucklebone.jpg)
-
-*Metal imitation astragalus — proof of how valued these objects were, crafted in durable bronze to replicate the natural bone*
-
-Source: Metropolitan Museum of Art, #256765
-
-**Ancient Dice, 9th–10th century**
+*Metal imitation astragalus — proof of how valued these objects were, crafted in durable bronze to replicate the natural bone. — Met*
 
 ![Ancient Dice, 9th–10th century](images/ch2_Dice.jpg)
-
-*Medieval dice showing the evolution toward the standardized, symmetrical form that Eerkens traced over two millennia of design convergence*
-
-Source: Metropolitan Museum of Art
+*Medieval dice showing the evolution toward the standardized, symmetrical form that Eerkens traced over two millennia of design convergence. — Met*
 
 ---
 
@@ -1036,29 +998,14 @@ and then could not stop.
 
 ### Images — Chapter 3
 
-**Oracle Bone Fragment, Shang Dynasty**
-
 ![Oracle Bone Fragment, Shang Dynasty](images/ch3_Oracle_bone_fragment.jpg)
-
-*Inscribed cattle scapula or turtle plastron used for divination — questions were carved into the bone, which was heated until it cracked, and the crack patterns read as messages from ancestors*
-
-Source: Metropolitan Museum of Art
-
-**Oracle Bone, Shang Dynasty (c. 1600–1046 BCE)**
+*Inscribed cattle scapula used for divination — questions were carved into the bone, which was heated until it cracked, and the crack patterns read as messages from ancestors. — Met*
 
 ![Oracle Bone, Shang Dynasty (c. 1600–1046 BCE)](images/ch3_Oracle_bone.jpg)
+*Over 150,000 oracle bone fragments have been recovered from the Shang capital at Anyang — the earliest surviving records of systematic decision-making under uncertainty. — Met*
 
-*Over 150,000 oracle bone fragments have been recovered from the Shang capital at Anyang — the earliest surviving records of systematic decision-making under uncertainty*
-
-Source: Metropolitan Museum of Art
-
-**Table Base with Jonah Swallowed and Cast Up by the Big Fish, early 300s CE**
-
-![Table Base with Jonah Swallowed and Cast Up by the Big Fish, early 300s CE](images/ch3_Table_Base_with_Jonah_Swallowed_and_Cast_Up_by_the_Big_Fish.jpg)
-
-*The story of Jonah — the terrified sailors cast lots to determine which passenger brought divine wrath upon their ship, and the lot fell on the prophet*
-
-Source: Metropolitan Museum of Art
+![Table Base with Jonah and the Big Fish, early 300s CE](images/ch3_Table_Base_with_Jonah_Swallowed_and_Cast_Up_by_the_Big_Fish.jpg)
+*The terrified sailors cast lots to determine which passenger brought divine wrath upon their ship, and the lot fell on the prophet. — Met*
 
 ---
 
@@ -1367,37 +1314,17 @@ was a national obsession.
 
 ### Images — Chapter 4
 
-**Queen Nefertari Playing Senet, c. 1279–1213 BCE**
-
 ![Queen Nefertari Playing Senet, c. 1279–1213 BCE](images/ch4_Queen_Nefertari_Playing_Senet.jpg)
+*The queen playing the game that began as secular entertainment and transformed into a map of the afterlife — the thirty squares became stations on the soul's journey through the Duat. — Met*
 
-*Copy of the tomb painting showing the queen playing the game that began as secular entertainment and transformed into a map of the afterlife — the thirty squares became stations on the soul's journey through the Duat*
+![Game Box for Senet and Twenty Squares, c. 1635–1458 BCE](images/ch4_Game_Box_for_Playing_Senet_and_Twenty_Squares.jpg)
+*A dual-purpose Egyptian game box — one of the most common gaming artifacts from ancient Egypt, combining two different board games. — Met*
 
-Source: Metropolitan Museum of Art
+![Mirror with TLV Game Board Design, 1st–2nd century](images/ch4_Mirror_with_game_board_design_and_animals_of_the_four_direct.jpg)
+*Chinese cosmological mirror bearing the distinctive TLV pattern associated with Liubo — T-shaped, L-shaped, and V-shaped markings symbolizing the four directions. — Met*
 
-**Game Box for Playing Senet and Twenty Squares, c. 1635–1458 BCE**
-
-![Game Box for Playing Senet and Twenty Squares, c. 1635–1458 BCE](images/ch4_Game_Box_for_Playing_Senet_and_Twenty_Squares.jpg)
-
-*A dual-purpose Egyptian game box — one of the most common gaming artifacts from ancient Egypt, combining two different board games*
-
-Source: Metropolitan Museum of Art
-
-**Mirror with TLV Game Board Design and Animals of the Four Directions, 1st–2nd century**
-
-![Mirror with TLV Game Board Design and Animals of the Four Directions, 1st–2nd century](images/ch4_Mirror_with_game_board_design_and_animals_of_the_four_direct.jpg)
-
-*Chinese cosmological mirror bearing the distinctive TLV pattern associated with Liubo — T-shaped, L-shaped, and V-shaped markings symbolizing the four directions and the gates between them*
-
-Source: Metropolitan Museum of Art
-
-**Àgéré Ifá (Ifá Divination Vessel) with Kneeling Woman, 17th–19th century**
-
-![Àgéré Ifá (Ifá Divination Vessel) with Kneeling Woman, 17th–19th century](images/ch4_Àgéré_Ifá_Ifá_divination_vessel_with_kneeling_woman.jpg)
-
-*Yoruba divination vessel used in the Ifá system — a binary code generating 256 combinations, developed independently of Western mathematics*
-
-Source: Metropolitan Museum of Art
+![Àgéré Ifá (Divination Vessel), 17th–19th century](images/ch4_Àgéré_Ifá_Ifá_divination_vessel_with_kneeling_woman.jpg)
+*Yoruba divination vessel used in the Ifá system — a binary code generating 256 combinations, developed independently of Western mathematics. — Met*
 
 ---
 
@@ -1675,45 +1602,20 @@ up.
 
 ### Images — Chapter 5
 
-**Terracotta Vase in the Form of an Astragal (Knucklebone), c. 460 BCE**
-
-![Terracotta Vase in the Form of an Astragal (Knucklebone), c. 460 BCE](images/ch5_Terracotta_vase_in_the_form_of_an_astragal_knucklebone.jpg)
-
-*A Greek vessel sculpted in the shape of a knucklebone — proof of how central gambling was to Greek material culture that potters made drinking vessels in the shape of dice*
-
-Source: Metropolitan Museum of Art, #253610
-
-**Terracotta Kylix (Drinking Cup), c. 500 BCE**
+![Terracotta Vase in the Form of an Astragal, c. 460 BCE](images/ch5_Terracotta_vase_in_the_form_of_an_astragal_knucklebone.jpg)
+*A Greek vessel sculpted in the shape of a knucklebone — proof of how central gambling was to Greek material culture that potters made drinking vessels in the shape of dice. — Met*
 
 ![Terracotta Kylix (Drinking Cup), c. 500 BCE](images/ch5_Terracotta_kylix_drinking_cup.jpg)
+*A Greek symposium drinking cup — the symposium was where men debated philosophy, recited poetry, and competed in gambling games like kottabos. — Met*
 
-*A Greek symposium drinking cup — the symposium was where men debated philosophy, recited poetry, and competed in gambling games like kottabos*
-
-Source: Metropolitan Museum of Art, #254921
-
-**Bronze Statuette of the Goddess Fortuna (Tyche), c. 2nd century CE**
-
-![Bronze Statuette of the Goddess Fortuna (Tyche), c. 2nd century CE](images/ch5_Bronze_statuette_of_the_goddess_Fortuna.jpg)
-
-*The goddess of fortune carrying a cornucopia (abundance) and balancing on instability — 'the cornucopia says fortune gives; the ball says fortune is precarious'*
-
-Source: Metropolitan Museum of Art, #245316
-
-**Glass Astragalus (Knucklebone), c. 225 BCE–75 CE**
+![Bronze Statuette of Fortuna (Tyche), c. 2nd century CE](images/ch5_Bronze_statuette_of_the_goddess_Fortuna.jpg)
+*The goddess of fortune carrying a cornucopia and balancing on instability — 'the cornucopia says fortune gives; the ball says fortune is precarious.' — Met*
 
 ![Glass Astragalus (Knucklebone), c. 225 BCE–75 CE](images/ch5_Glass_astragalus_knucklebone.jpg)
+*Rolling four different numbers on four astragaloi was called the 'Throw of Aphrodite' — the best result, named after the goddess of love. — Met*
 
-*Rolling four different numbers on four astragaloi was called the 'Throw of Aphrodite' — the best result, named after the goddess of love*
-
-Source: Metropolitan Museum of Art
-
-**Marble Relief Fragment with Gladiators, 1st–3rd century CE**
-
-![Marble Relief Fragment with Gladiators, 1st–3rd century CE](images/ch5_Marble_relief_fragment_with_gladiators.jpg)
-
-*Gladiatorial combat scenes — athletic competitions where Greeks and Romans wagered heavily on the outcomes*
-
-Source: Metropolitan Museum of Art
+![Marble Relief with Gladiators, 1st–3rd century CE](images/ch5_Marble_relief_fragment_with_gladiators.jpg)
+*Gladiatorial combat — athletic competitions where Greeks and Romans wagered heavily on the outcomes. — Met*
 
 ---
 
@@ -1996,53 +1898,23 @@ They would take more than a thousand years to return.
 
 ### Images — Chapter 6
 
-**Circus Maximus from Speculum Romanae Magnificentiae (1581)**
-
-![Circus Maximus from Speculum Romanae Magnificentiae (1581)](images/ch6_Circus_Maximus_from_Speculum_Romanae_Magnificentiae.jpg)
-
-*Engraving of the Circus Maximus — the largest entertainment venue in the ancient world, seating 250,000 spectators for chariot races that were Rome's greatest gambling spectacle*
-
-Source: Metropolitan Museum of Art
-
-**Reconstruction of the Circus Maximus (before 1704)**
+![Circus Maximus, from Speculum Romanae Magnificentiae (1581)](images/ch6_Circus_Maximus_from_Speculum_Romanae_Magnificentiae.jpg)
+*The largest entertainment venue in the ancient world, seating 250,000 spectators for chariot races that were Rome's greatest gambling spectacle. — Met*
 
 ![Reconstruction of the Circus Maximus (before 1704)](images/ch6_Reconstruction_of_the_Circus_Maximus_above_and_a_View_of_the.jpg)
-
-*Showing the massive scale of Rome's premier gambling venue — citizens of every class placed enormous bets on the racing factions: Reds, Whites, Blues, and Greens*
-
-Source: Metropolitan Museum of Art
-
-**Roman-era Dice**
+*The massive scale of Rome's premier gambling venue — citizens of every class placed enormous bets on the racing factions: Reds, Whites, Blues, and Greens. — Met*
 
 ![Roman-era Dice](images/ch6_Dice.jpg)
-
-*Dice found across the Roman empire — in taverns, military camps, and the Forum itself, despite law after law forbidding dice games*
-
-Source: Metropolitan Museum of Art
-
-**Glass Astragal (Knucklebone), Roman**
+*Dice found across the Roman empire — in taverns, military camps, and the Forum itself, despite law after law forbidding dice games. — Met*
 
 ![Glass Astragal (Knucklebone), Roman](images/ch6_Glass_astragal_knucklebone.jpg)
-
-*The tali (knucklebones) that Romans inherited from the Greeks — the best roll was the 'Throw of Venus,' the worst the 'Throw of the Dog'*
-
-Source: Metropolitan Museum of Art
-
-**Roman Gaming Counters**
+*The tali that Romans inherited from the Greeks — the best roll was the 'Throw of Venus,' the worst the 'Throw of the Dog.' — Met*
 
 ![Roman Gaming Counters](images/ch6_Roman_gaming_counters.jpg)
-
-*Counters used for Duodecim Scripta ('Twelve Lines'), the ancestor of modern backgammon*
-
-Source: Metropolitan Museum of Art
-
-**Terracotta Hydria, c. 340–330 BCE**
+*Counters used for Duodecim Scripta ('Twelve Lines'), the ancestor of modern backgammon. — Met*
 
 ![Terracotta Hydria, c. 340–330 BCE](images/ch6_Terracotta_hydria_water_jar.jpg)
-
-*Decorated vessel from the classical world — gambling scenes appeared on pottery across the Mediterranean*
-
-Source: Metropolitan Museum of Art
+*Decorated vessel from the classical world — gambling scenes appeared on pottery across the Mediterranean. — Met*
 
 ---
 
@@ -2319,29 +2191,11 @@ disdain for disorder and a gaming culture that eventually chose pure strategy ov
 
 ### Images — Chapter 7
 
-**Shiva and Parvati Playing Chaupar, from a Rasamanjari Series, 1694–95**
+![Shiva and Parvati Playing Chaupar, 1694–95](images/ch7_Shiva_and_Parvati_Playing_Chaupar_Folio_from_a_Rasamanjari_S.jpg)
+*The gods themselves at the gaming board — Shiva and Parvati are traditionally shown playing Chaupar, depicted in sculpture and painting across centuries. — Met*
 
-![Shiva and Parvati Playing Chaupar, from a Rasamanjari Series, 1694–95](images/ch7_Shiva_and_Parvati_Playing_Chaupar_Folio_from_a_Rasamanjari_S.jpg)
-
-*The gods themselves at the gaming board — Shiva and Parvati are traditionally shown playing Chaupar, depicted in sculpture and painting across centuries*
-
-Source: Metropolitan Museum of Art, #37942
-
-**Indian Miniature Painting, Mughal Era**
-
-![Indian Miniature Painting, Mughal Era](images/ch7_Indian_miniature.jpg)
-
-*The rich tradition of Indian miniature painting documented courtly life, including the gambling scenes central to Indian epic literature*
-
-Source: Metropolitan Museum of Art
-
-**Laur and Chanda in the Forest, from a Chandayana, c. 1525–50**
-
-![Laur and Chanda in the Forest, from a Chandayana, c. 1525–50](images/ch7_Laur_and_Chanda_in_the_Forest_Folio_from_a_Chandayana_or_Lau.jpg)
-
-*Indian manuscript painting from the tradition that produced the world's greatest gambling narratives*
-
-Source: Metropolitan Museum of Art
+![Laur and Chanda in the Forest, c. 1525–50](images/ch7_Laur_and_Chanda_in_the_Forest_Folio_from_a_Chandayana_or_Lau.jpg)
+*Indian manuscript painting from the tradition that produced the world's greatest gambling narratives. — Met*
 
 ---
 
@@ -2608,29 +2462,14 @@ Europe, where they would ignite a revolution in gambling that is still unfolding
 
 ### Images — Chapter 8
 
-**Pair of Seated Figures Playing Liubo, 1st century BCE–1st century CE**
-
-![Pair of Seated Figures Playing Liubo, 1st century BCE–1st century CE](images/ch8_Pair_of_Seated_Figures_Playing_Liubo.jpg)
-
-*Han Dynasty tomb figurines showing animated Liubo players — one hand raised as if about to slam down the throwing sticks. These are among the most common gaming artifacts in Han Dynasty tombs*
-
-Source: Metropolitan Museum of Art, #44732
-
-**Liubo Board and Pieces, 1st century BCE–1st century CE**
+![Seated Figures Playing Liubo, 1st century BCE–1st century CE](images/ch8_Pair_of_Seated_Figures_Playing_Liubo.jpg)
+*Han Dynasty tomb figurines showing animated Liubo players — one hand raised as if about to slam down the throwing sticks. Among the most common gaming artifacts in Han Dynasty tombs. — Met*
 
 ![Liubo Board and Pieces, 1st century BCE–1st century CE](images/ch8_Liubo_Board_and_Pieces.jpg)
+*A complete Han Dynasty Liubo gaming set with its distinctive square board — simultaneously entertainment, gambling instrument, and divination tool. — Met*
 
-*A complete Han Dynasty Liubo gaming set with its distinctive square board — the game was simultaneously entertainment, gambling instrument, and divination tool*
-
-Source: Metropolitan Museum of Art, #50484
-
-**Mirror with Game Board Design (TLV Pattern), 1st–2nd century**
-
-![Mirror with Game Board Design (TLV Pattern), 1st–2nd century](images/ch8_Mirror_with_game_board_design.jpg)
-
-*The cosmological TLV pattern that adorned both Liubo boards and bronze mirrors — believed to symbolize the gates between the four directions and the center of the cosmos*
-
-Source: Metropolitan Museum of Art
+![Mirror with TLV Game Board Design, 1st–2nd century](images/ch8_Mirror_with_game_board_design.jpg)
+*The cosmological TLV pattern that adorned both Liubo boards and bronze mirrors — believed to symbolize the gates between the four directions and the center of the cosmos. — Met*
 
 ---
 
@@ -2884,37 +2723,12 @@ product of any single civilization but a feature of the species.
 
 ### Images — Chapter 9
 
-**Box with Cards for the Poem Card Game, Japan**
-
 ![Box with Cards for the Poem Card Game, Japan](images/ch9_Box_with_Cards_for_the_Poem_Card_Game.jpg)
-
-*Japanese karuta cards — part of the card game tradition that evolved from banned Portuguese playing cards through successive reinventions*
-
-Source: Metropolitan Museum of Art
-
-**Four of Clubs, Japanese Courtship, from Harlequin Cards (1889)**
+*Japanese karuta cards — part of the card game tradition that evolved from banned Portuguese playing cards through successive reinventions. — Met*
 
 ![Four of Clubs, Japanese Courtship, from Harlequin Cards (1889)](images/ch9_Four_of_Clubs_Japanese_Courtship_from_Harlequin_Cards_2nd_Se.jpg)
+*Cards connecting Japanese and Western card cultures — produced the same year Fusajiro Yamauchi founded Nintendo to manufacture Hanafuda cards. — Met*
 
-*Cards connecting Japanese and Western card cultures — produced the same year Fusajiro Yamauchi founded Nintendo to manufacture Hanafuda cards*
-
-Source: Metropolitan Museum of Art
-
-**Japanese Woodblock Print, Edo Period**
-
-![Japanese Woodblock Print, Edo Period](images/ch9_Japanese_woodblock_print.jpg)
-
-*Ukiyo-e print from the 'floating world' — the nocturnal realm of pleasure quarters, theaters, teahouses, and gambling dens that flourished in Edo-period Japan*
-
-Source: Metropolitan Museum of Art
-
-**Ukiyo-e Print, Japan**
-
-![Ukiyo-e Print, Japan](images/ch9_Ukiyo-e_print.jpg)
-
-*The floating world was where the rigid hierarchies of Tokugawa society were temporarily relaxed — and where gambling was woven into the texture of daily life*
-
-Source: Metropolitan Museum of Art
 
 ---
 
@@ -3199,45 +3013,14 @@ human ingenuity that found ways around it nonetheless.
 
 ### Images — Chapter 10
 
-**Seated Ballplayer, 200 BCE–300 CE**
-
-![Seated Ballplayer, 200 BCE–300 CE](images/ch10_Mesoamerican_ballplayer_figure.jpg)
-
-*Pre-Columbian figure of a Mesoamerican ball game player — the ball game was three thousand years old by the time the Aztecs inherited it, the longest continuously played sport in the Americas*
-
-Source: Metropolitan Museum of Art
-
-**Stone Yoke (Ball Game Equipment), 600–900 CE, Classic Veracruz**
-
-![Stone Yoke (Ball Game Equipment), 600–900 CE, Classic Veracruz](images/ch10_Mesoamerican_ball_game_yoke.jpg)
-
-*Stone yoke worn by Mesoamerican ballplayers — the ball game was simultaneously sport, religious ritual, diplomatic tool, and gambling market*
-
-Source: Metropolitan Museum of Art
-
-**Closed Yoke, 600–900 CE, Classic Veracruz**
-
 ![Closed Yoke, 600–900 CE, Classic Veracruz](images/ch10_Closed_yoke.jpg)
+*Ball game equipment from the civilization that discovered vulcanization and produced rubber balls Europeans would not match for centuries. — Met*
 
-*Ball game equipment from the civilization that discovered vulcanization and produced rubber balls Europeans would not match for centuries*
+![Pendant with Serpent Design, 13th–14th century, Mississippian](images/ch10_Pendant_with_Serpent_Design.jpg)
+*Artifact from the Mississippian civilization that built Cahokia — where chunkey was played as both folk entertainment and instrument of political power. — Met*
 
-Source: Metropolitan Museum of Art
-
-**Pendant with Serpent Design, 13th–14th century, Mississippian Culture**
-
-![Pendant with Serpent Design, 13th–14th century, Mississippian Culture](images/ch10_Pendant_with_Serpent_Design.jpg)
-
-*Artifact from the Mississippian civilization that built Cahokia — where chunkey was played as both folk entertainment and instrument of political power*
-
-Source: Metropolitan Museum of Art
-
-**Polychrome Bottle, 14th–15th century, Mississippian (Ancestral Quapaw)**
-
-![Polychrome Bottle, 14th–15th century, Mississippian (Ancestral Quapaw)](images/ch10_Polychrome_Bottle.jpg)
-
-*Decorated pottery from the Cahokian cultural sphere — the civilization that used gambling as a tool of diplomacy and empire*
-
-Source: Metropolitan Museum of Art
+![Polychrome Bottle, 14th–15th century, Mississippian](images/ch10_Polychrome_Bottle.jpg)
+*Decorated pottery from the Cahokian cultural sphere — the civilization that used gambling as a tool of diplomacy and empire. — Met*
 
 ---
 
